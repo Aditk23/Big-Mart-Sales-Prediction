@@ -19,6 +19,6 @@ Data visualization was performed and I came across various conclusions:
 * 	Supermarket Type1 are most popular
 
 ![alt text](https://github.com/Aditk23/Big-Mart-Sales-Prediction/blob/main/MRP.png "Scatter Plot for Item_MRP vs Item_Sales")
-![alt text](https://github.com/Aditk23/DS_salary_prediction/blob/main/fat_content.png "VioinPlot for fat content in different items")
-![alt text](https://github.com/Aditk23/DS_salary_prediction/blob/main/item_type.png "Sales of different type of items")
-![alt text](https://github.com/Aditk23/DS_salary_prediction/blob/main/outlet_type.png "Sales on different outlets")
+![alt text](https://github.com/Aditk23/Big-Mart-Sales-Prediction/blob/main/fat_content.png "VioinPlot for fat content in different items")
+![alt text](https://github.com/Aditk23/Big-Mart-Sales-Prediction/blob/main/item_type.png "Sales of different type of items")
+![alt text](https://github.com/Aditk23/Big-Mart-Sales-Prediction/blob/main/outlet_type.png "Sales on different outlets")
